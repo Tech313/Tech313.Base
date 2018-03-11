@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Dope;
+    src: url(Down.otf);
+}
+
+.navbar-brand{height:100%;}
+.myFont{font-family: Dope;}
